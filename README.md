@@ -47,8 +47,7 @@
 - warning - it might be something we haven't covered like: spinners
 https://getbootstrap.com/docs/4.3/components/spinners/
 
-- or maybe, make a 3 page site from
-https://startbootstrap.com/templates/small-business/
+
 
 
 ----
@@ -72,7 +71,8 @@ https://startbootstrap.com/templates/small-business/
 ### OR
 - mabye a template like https://startbootstrap.com/templates/heroic-features/
 - where you will have to add two pages, change navigation, add images or features
-
+- or - or maybe, make a 3 page site from
+https://startbootstrap.com/templates/small-business/
 
 
 
