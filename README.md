@@ -4,6 +4,15 @@
 - open book, open google
 - 
 
+
+----
+
+# What is NOT on the test
+- WordPress is NOT on the test
+- we just haven't spent enough time to become proficient in WordPress
+
+----
+
 # Student Name: 
 
 
@@ -15,6 +24,14 @@ You can get 1 -3 marks, depending on how fast
 
 # Study
 - all assignments / quick marks / lecture notes
+
+---
+
+# What is NOT on the test
+- No WordPress
+- we just haven't spent enough time to become proficient
+
+---
 
 # You will have to use some things from
 - https://getbootstrap.com/docs/4.3/getting-started/introduction/
@@ -42,6 +59,12 @@ https://startbootstrap.com/templates/small-business/
 - customize it
 - work with Fontawesome - size, colors etc.
 - add a responsive youtube video
+
+### OR
+- mabye a template like https://startbootstrap.com/templates/heroic-features/
+- where you will have to add two pages, change navigation, add images or features
+
+
 
 
 ## Font Awesome
