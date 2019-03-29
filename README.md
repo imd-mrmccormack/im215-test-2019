@@ -17,13 +17,15 @@
 # What is NOT on the test
 - WordPress is NOT on the test
 - we just haven't spent enough time to become proficient in WordPress
+- https://jsfiddle.net is **NOT* on the test
+- Things like Google Anaytics is NOT on the test
 
 ----
 
-# Student Name: 
+# Student Name:  __________________________
 
 
-You can get 1 -3 marks, depending on how fast 
+#### You can get 1 -3 marks, depending on how fast 
 ## Start TIME: ____
 ## End TIME: ____
 
