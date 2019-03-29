@@ -1,6 +1,6 @@
 ![](http://www.teacheroz.com/images/staycalm.png)
 
-# Review for Test
+# Review for Test - 20% of grade
 - open book, open google
 - 
 
