@@ -1,9 +1,16 @@
 ![](http://www.teacheroz.com/images/staycalm.png)
 
+---
+
 # Review for Test - 20% of grade
 - open book, open google
-- 
 
+
+---
+
+# What I Learned Document  ---/10%   [ ] Blackboard
+
+> Google Doc shared with Mr. M
 
 ----
 
