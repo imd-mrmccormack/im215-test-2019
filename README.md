@@ -2,28 +2,19 @@
 
 ---
 
-# Review for Test - 20% of grade
-- open book, open google
-
+# Test - 20% of grade
 
 ---
 
 # What I Learned Document  ---/10%   [ ] Blackboard
+> Share Doc with Mr. M.
+---
 
 > Google Doc shared with Mr. M
 
 ----
 
-# What is NOT on the test
-- WordPress is NOT on the test
-- we just haven't spent enough time to become proficient in WordPress
-- https://jsfiddle.net is **NOT* on the test
-- Things like Google Anaytics is NOT on the test
-
-----
-
-# Student Name:  __________________________
-
+# Student Name:  ______________________________
 
 #### You can get 1 -3 marks, depending on how fast 
 ## Start TIME: ____
@@ -31,31 +22,24 @@
 
 ----
 
-# Study
-- all assignments / quick marks / lecture notes
-
----
-
-# What is NOT on the test
-- No WordPress
-- we just haven't spent enough time to become proficient
-
----
-
-# You will have to use some things from
+# Main Reference
 - https://getbootstrap.com/docs/4.3/getting-started/introduction/
-- warning - it might be something we haven't covered like: spinners
-https://getbootstrap.com/docs/4.3/components/spinners/
-
-
-
 
 ----
 
 # Tasks
 
 ## Bootsnipp.com
-- be familiar with http://bootsnipp.com
+- Fork this snippet https://bootsnipp.com/snippets/dpV9v
+
+## Make these changes
+
+1. Make it only two columns
+1. Change the color of nav bar to red
+1. change the color of button to default color
+1. Add responsive YouTube video to 
+
+
 - be prepared to `fork` one and customize it
 - know how to change / add /delete columns
 - know how to add a new row with columns in it
