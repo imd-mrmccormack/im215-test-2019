@@ -25,7 +25,7 @@
 
 ----
 
-# ____/ 10 BOOTSNIPP
+# ____/ 12 BOOTSNIPP
 
 ## Bootsnipp.com
 - Fork this snippet https://bootsnipp.com/snippets/dpV9v
@@ -43,7 +43,7 @@
 
 
 
-# _____/ 8 Customize a template
+# _____/ 6 Customize a template
 - Given a template like https://startbootstrap.com/themes/freelancer/
 - download it
 - add a `section` called `Experience` containing only a H1 tag and an image 
