@@ -27,7 +27,7 @@
 
 ----
 
-# Tasks
+# ____/ 10 BOOTSNIPP
 
 ## Bootsnipp.com
 - Fork this snippet https://bootsnipp.com/snippets/dpV9v
@@ -35,36 +35,35 @@
 ## Make these changes
 
 1. Make it only two columns
+1. add a `row` that contains 4 columns below the one with only two
 1. Change the color of nav bar to red
 1. change the color of button to default color
-1. Add responsive YouTube video to 
+1. Add to the first row, 2nd column aresponsive YouTube video to with https://youtu.be/-NJEmcqp0TM
+1. Add a Bootstrap `badge` to the line `Yoda lives`  the badge will contain the word ` GO YODA `
+1. Add a Bpptstrap `Bootstrap dropdpwn button` which has 3 choices` to any column
+1. You will notice that there are **many** fontawesome icons NOT showing up. Add the necessary one line of code to have all the fontaweseom display correctly
 
 
-- be prepared to `fork` one and customize it
-- know how to change / add /delete columns
-- know how to add a new row with columns in it
-- know how to display things ONLY on certain screen sizes
 
-## Customize a template
+# _____/ 8 Customize a template
 - Given a template like https://startbootstrap.com/themes/freelancer/
 - download it
-- customize it
-- work with Fontawesome - size, colors etc.
-- add a responsive youtube video
-
-### OR
-- mabye a template like https://startbootstrap.com/templates/heroic-features/
-- where you will have to add two pages, change navigation, add images or features
-- or - or maybe, make a 3 page site from
-https://startbootstrap.com/templates/small-business/
+- add a `section` called `Experience` containing only a H1 tag and an image 
+https://borealist.com/wp-content/uploads/2018/07/getting-a-business-degree-get-experience-healthcare.jpg
+- add the navigation to `section` at top
+- Zip it up and store on our Google Drive
 
 
 
-## Font Awesome
-- you know you have to have that LINK in the `<head>` tag to Font aweseome
-- then you can use the **free** ones
 
-## Know how to compress an image
+
+# ___/2  Know how to compress an image
+
+- Download this image
+
+- using ONLY an online compressor tool compress this image by at least 80%
+
+
 - See Lecture
 
 ----
