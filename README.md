@@ -1,4 +1,4 @@
-![](http://www.teacheroz.com/images/staycalm.png)
+![](https://media.proprofs.com/images/QM/user_images/1754155/1522408751.png)
 
 ---
 
