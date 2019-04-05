@@ -33,7 +33,7 @@
 1. Make it only two columns
 1. add a `row` that contains 4 columns below the one with only two
 1. Change the color of nav bar to red
-1. change the color of button to default color
+1. change the color of button to the Warning Bootstrap color
 1. Add to the first row, 2nd column aresponsive YouTube video to with https://youtu.be/gqOEoUR5RHg
 1. Add a Bootstrap `badge` to the line `Yoda lives`  the badge will contain the word ` GO YODA `
 1. Add a Bpptstrap `Bootstrap dropdpwn button` which has 3 choices` to any column
