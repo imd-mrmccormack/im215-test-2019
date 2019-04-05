@@ -2,15 +2,13 @@
 
 ---
 
-# Test - 20% of grade
+# Test - 20% of grade       ____/ 20
 
+### Hints Given ________________________
 ---
 
 # What I Learned Document  ---/10%   [ ] Blackboard
 > Share Doc with Mr. M.
----
-
-> Google Doc shared with Mr. M
 
 ----
 
@@ -60,11 +58,10 @@ https://borealist.com/wp-content/uploads/2018/07/getting-a-business-degree-get-e
 # ___/2  Know how to compress an image
 
 - Download this image
+https://raw.githubusercontent.com/imd-mrmccormack/im215-test-2019/master/balloons.jpg
 
 - using ONLY an online compressor tool compress this image by at least 80%
-
-
-- See Lecture
+- change the width to a better size for Bootstrap
 
 ----
  
