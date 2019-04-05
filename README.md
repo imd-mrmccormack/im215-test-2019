@@ -1,7 +1,5 @@
 ![](https://media.proprofs.com/images/QM/user_images/1754155/1522408751.png)
-
 ---
-
 # Test - 20% of grade       ____/ 20
 
 ### Hints Given ________________________
@@ -41,8 +39,6 @@
 1. Add a Bpptstrap `Bootstrap dropdpwn button` which has 3 choices` to any column
 1. You will notice that there are **many** fontawesome icons NOT showing up. Add the necessary one line of code to have all the fontaweseom display correctly
 
-
-
 # _____/ 6 Customize a template
 - Given a template like https://startbootstrap.com/themes/freelancer/
 - download it
@@ -50,10 +46,6 @@
 https://borealist.com/wp-content/uploads/2018/07/getting-a-business-degree-get-experience-healthcare.jpg
 - add the navigation to `section` at top
 - Zip it up and store on our Google Drive
-
-
-
-
 
 # ___/2  Know how to compress an image
 
@@ -63,6 +55,9 @@ https://raw.githubusercontent.com/imd-mrmccormack/im215-test-2019/master/balloon
 - using ONLY an online compressor tool compress this image by at least 80%
 - change the width to a better size for Bootstrap
 
-----
+How big 
+Original image: _____________________
+Compressed image: ____________________
+Compressed image SIZE: ________________________
  
 
