@@ -35,7 +35,7 @@
 1. change the color of button to the Warning Bootstrap color
 1. Add to the first row, 2nd column aresponsive YouTube video to with https://youtu.be/gqOEoUR5RHg
 1. Add a Bootstrap `badge` to the line `Yoda lives`  the badge will contain the word ` GO YODA `
-1. Add a Bpptstrap `Bootstrap dropdpwn button` which has 3 choices` to any column
+1. **DO NOT DO*** Add a Bootstrap `Bootstrap dropdpwn button` 
 1. You will notice that there are **many** fontawesome icons NOT showing up. Add the necessary one line of code to have all the fontaweseom display correctly
 
 # _____/ 8 Customize a template
