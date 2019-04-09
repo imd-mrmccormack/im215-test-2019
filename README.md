@@ -9,7 +9,6 @@
 > Share Doc with Mr. M.
 
 ----
-
 # Student Name:  ______________________________
 
 #### You can get 1 -3 marks, depending on how fast you complete
@@ -57,6 +56,7 @@ Contact contact.html
 1. Add a Bootstrap 4, `Card` to the second column
 1. Using Bootstrap **Color schemes** make the navbar a blue color (i.e. without CSS - just classes) 
 1. An `alert` with a disclose button
+1. Add a Bootstrap `red growing spinner` near bottom of page
 1. Zip it up and store on our Google Drive
 
 
